@@ -8,4 +8,6 @@
 
 [2. Домашнее задание 2](https://github.com/Max-Zima/mipt-machine-learning-basics/tree/master/Домашнее%20задание%202)
 
-[2. Домашнее задание 3](https://github.com/Max-Zima/mipt-machine-learning-basics/tree/master/Домашнее%20задание%203)
+[3. Домашнее задание 3](https://github.com/Max-Zima/mipt-machine-learning-basics/tree/master/Домашнее%20задание%203)
+
+[4. Домашнее задание 4](https://github.com/Max-Zima/mipt-machine-learning-basics/tree/master/Домашнее%20задание%204)
