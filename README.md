@@ -16,3 +16,4 @@
 
 [6. Домашнее задание 6](https://github.com/Max-Zima/mipt-machine-learning-basics/tree/master/Домашнее%20задание%206)
 
+[7. Домашнее задание 7](https://github.com/Max-Zima/mipt-machine-learning-basics/tree/master/Домашнее%20задание%207)
