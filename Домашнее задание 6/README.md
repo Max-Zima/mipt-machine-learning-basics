@@ -20,4 +20,4 @@
 3. Сдать заполненный блокнот на проверку — загрузить блокнот, подписанный ФИО_assignment 6 (.ipynb) в форму ниже.
 
 ## Выполнение:
-[Блокнот](https://github.com/Max-Zima/mipt-machine-learning-basics/blob/master/Домашнее%20задание%205/Lecture_05_assignments_2024.ipynb) 
+[Блокнот](https://github.com/Max-Zima/mipt-machine-learning-basics/blob/master/Домашнее%20задание%206/Зимаков_%20Максим_Александрович_assignment_6.ipynb) 
