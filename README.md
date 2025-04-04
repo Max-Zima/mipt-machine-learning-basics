@@ -18,4 +18,4 @@
 
 [7. Домашнее задание 7](https://github.com/Max-Zima/mipt-machine-learning-basics/tree/master/Домашнее%20задание%207)
 
-[Дополнительное домашнее задание](https://github.com/Max-Zima/mipt-machine-learning-basics/tree/master/Дополнительное%20домашнее%20задание)
+[8. Дополнительное домашнее задание](https://github.com/Max-Zima/mipt-machine-learning-basics/tree/master/Дополнительное%20домашнее%20задание)
